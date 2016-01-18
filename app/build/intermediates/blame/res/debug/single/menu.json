@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/build/intermediates/res/merged/debug/menu/bridgelist.xml",
+        "source": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/src/main/res/menu/bridgelist.xml"
+    }
+]

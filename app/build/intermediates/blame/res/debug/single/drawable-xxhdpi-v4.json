@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/press_smartbridge.xml",
+        "source": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/src/main/res/drawable-xxhdpi/press_smartbridge.xml"
+    }
+]

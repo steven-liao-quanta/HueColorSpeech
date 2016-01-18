@@ -1,0 +1,13 @@
+#JSGF V1.0;
+
+grammar colors;
+
+<color> = hue color (red |
+          green |
+          blue |
+          orange  |
+          yellow |
+          purple) ;
+
+public <colors> = <color> ;
+

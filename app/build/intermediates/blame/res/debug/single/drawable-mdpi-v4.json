@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/press_smartbridge.xml",
+        "source": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/src/main/res/drawable-mdpi/press_smartbridge.xml"
+    },
+    {
+        "merged": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_clear.png",
+        "source": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/src/main/res/drawable-mdpi/image_clear.png"
+    },
+    {
+        "merged": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/stevenliao/AndroidStudioProjects/QuickStartApp/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
